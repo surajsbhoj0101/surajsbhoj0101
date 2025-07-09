@@ -31,7 +31,7 @@ If you have an idea or project, feel free to reach out!
 
 ## 📫 Connect with Me
 - Twitter: [@SURAJSINGH90968](https://twitter.com/SURAJSINGH90968)
-- Email: yourname@example.com
+- Email: surajsbhoj0101@gmail.com
 
 ---
 
