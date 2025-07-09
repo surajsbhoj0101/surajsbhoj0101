@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Suraj Singh Bhoj
 
-<!--
-**surajsbhoj0101/surajsbhoj0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 Blockchain & Full-Stack Developer | BCA Student
 
-Here are some ideas to get you started:
+I'm passionate about building decentralized and full-stack applications that push the limits of web3 and modern UI/UX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏗️ Current Projects
+- 🎨 **Pixel&Pen** – A creative platform to write and read blogs (currently building...)  
+  ↳ Details coming soon!
+
+---
+
+## ✅ Completed Projects
+- 🔁 **ForgeXSwap** – A feature-rich DEX on Sepolia  
+  ↳ ERC20 Token Creation | Token Swaps | Trading View | Liquidity Pools  
+  ↳ Built with React, TailwindCSS, Wagmi, Hardhat, and Subgraphs
+
+---
+
+## 🤝 Ready to Collaborate
+I'm always open to:
+- 📦 Building dApps or full-stack tools
+- 🤝 Contributing to blockchain projects
+- 💡 Exploring new ideas in Web3, DeFi, or creator platforms
+
+If you have an idea or project, feel free to reach out!
+
+---
+
+## 📫 Connect with Me
+- Twitter: [@SURAJSINGH90968](https://twitter.com/SURAJSINGH90968)
+- Email: yourname@example.com
+
+---
+
+⭐ Check out my pinned projects below – always open to feedback & collaboration!
