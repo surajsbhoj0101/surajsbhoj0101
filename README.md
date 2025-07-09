@@ -2,36 +2,41 @@
 
 ### 🧑‍💻 Blockchain & Full-Stack Developer | BCA Student
 
-I'm passionate about building decentralized and full-stack applications that push the limits of web3 and modern UI/UX.
+I'm passionate about building decentralized and full-stack applications that push the limits of Web3 and modern UI/UX.
 
 ---
 
 ## 🏗️ Current Projects
-- 🎨 **Pixel&Pen** – A creative platform to write and read blogs (currently building...)  
-  ↳ Details coming soon!
+- 🎨 **Pixel&Pen** – A creative platform to write and read blogs *(currently building...)*  
+  ↳ *Details coming soon!*
 
 ---
 
 ## ✅ Completed Projects
 - 🔁 **ForgeXSwap** – A feature-rich DEX on Sepolia  
   ↳ ERC20 Token Creation | Token Swaps | Trading View | Liquidity Pools  
-  ↳ Built with React, TailwindCSS, Wagmi, Hardhat, and Subgraphs
+  ↳ *Built with React, TailwindCSS, Wagmi, Hardhat, and Subgraphs*
 
 ---
 
-## 🤝 Ready to Collaborate
-I'm always open to:
-- 📦 Building dApps or full-stack tools
-- 🤝 Contributing to blockchain projects
-- 💡 Exploring new ideas in Web3, DeFi, or creator platforms
+## 🤝 Open to Collaborate On:
+- 📦 dApps or full-stack tools  
+- 🤝 Blockchain-based open source projects  
+- 💡 Innovative ideas in Web3, DeFi, or creator platforms
 
-If you have an idea or project, feel free to reach out!
+Have an idea or project? Feel free to connect!
 
 ---
 
 ## 📫 Connect with Me
-- Twitter: [@SURAJSINGH90968](https://twitter.com/SURAJSINGH90968)
-- Email: surajsbhoj0101@gmail.com
+- 🐦 Twitter: [@SURAJSINGH90968](https://twitter.com/SURAJSINGH90968)  
+- 📧 Email: surajsbhoj0101@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+![Suraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=surajsbhoj0101&show_icons=true&theme=radical)
 
 ---
 
