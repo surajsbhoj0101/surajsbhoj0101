@@ -9,6 +9,7 @@ I'm passionate about building decentralized and full-stack applications that pus
 ## 🏗️ Current Projects
 - 🎨 **Pixel&Pen** – A creative platform to write and read blogs *(currently building...)*  
   ↳ *Details coming soon!*
+- **FreeLancing Dao Platform** 
 
 ---
 
