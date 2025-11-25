@@ -36,8 +36,8 @@ Have an idea or project? Feel free to connect!
 ---
 
 ## 📊 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=surajsbhoj0101&theme=radical)
 
-![Suraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=surajsbhoj0101&show_icons=true&theme=radical)
 
 ---
 
