@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Suraj Singh Bhoj
 
-🚀 **Blockchain & Full-Stack Developer**
+ **Blockchain & Full-Stack Developer**
 
 I build **full-stack and decentralized applications** focused on scalable architecture, Web3 integrations, and clean developer-friendly systems.
 
@@ -10,13 +10,13 @@ My work combines **modern frontend engineering, backend API design, and smart co
 
 # 🧠 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=react,nodejs,solidity,ts,js,mongodb,mysql,tailwind,git,linux,python,cpp)
+![My Skills](https://skillicons.dev/icons?i=react,nodejs,solidity,ts,js,mongodb,mysql,tailwind,git,linux,python,cpp,redis,c,c++,docker,typescript,)
 
 ---
 
-# 🏗️ Current Projects
+#  Current Projects
 
-### 🎨 Pixel&Pen
+###  Pixel&Pen
 
 A **creator platform** for writing, publishing, and discovering blogs.
 
@@ -30,6 +30,9 @@ Focus areas:
 
 ---
 
+
+# ✅ Completed Projects
+
 ### 🏛 Freelancing DAO Platform
 
 A decentralized freelancing platform combining **reputation systems, DAO governance, and transparent payments**.
@@ -41,8 +44,6 @@ Goals:
 * DAO-based dispute resolution
 
 ---
-
-# ✅ Completed Projects
 
 ### 🔁 ForgeXSwap
 
@@ -95,11 +96,6 @@ If you're building something interesting, feel free to reach out.
 
 ---
 
-# 📈 Profile Views
-
-![](https://komarev.com/ghpvc/?username=surajsbhoj0101\&color=blue)
-
----
 
 # 📫 Connect With Me
 
