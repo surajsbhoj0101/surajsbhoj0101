@@ -8,9 +8,9 @@ My work combines **modern frontend engineering, backend API design, and smart co
 
 ---
 
-# 🧠 Tech Stack
+# Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=react,nodejs,solidity,ts,js,mongodb,mysql,tailwind,git,linux,python,cpp,redis,c,c++,docker,typescript,)
+![My Skills](https://skillicons.dev/icons?i=react,nodejs,solidity,ts,js,mongodb,mysql,tailwind,git,linux,python,cpp,redis,c,c++,docker,typescript,vite)
 
 ---
 
